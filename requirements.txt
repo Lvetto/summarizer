@@ -1,3 +1,7 @@
 numpy
 anthropic
 ipykernel
+litellm
+dotenv
+pymupdf
+"instructor[litellm]"
